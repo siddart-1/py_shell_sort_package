@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "shell_sort_package"
+name = "shell_sort_pkg_sid"
 version = "0.1.0"
 description = "A python package to do shell sort"
 authors = ["Siddarth"]

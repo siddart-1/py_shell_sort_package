@@ -1,6 +1,6 @@
 # tests/test_shell_sort.py
 
-from shell_sort_package.shell_sort import shell_sort
+from shell_sort_pkg_sid.shell_sort import shell_sort
 import unittest
 
 #Tests for shell sorting using diff scenarios
