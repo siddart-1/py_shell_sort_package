@@ -3,6 +3,7 @@
 from shell_sort_package.shell_sort import shell_sort
 import unittest
 
+#Tests for shell sorting using diff scenarios
 class TestShellSort(unittest.TestCase):
     def test_empty_array(self):
         self.assertEqual(shell_sort([]), [])
